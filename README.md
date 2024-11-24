@@ -8,8 +8,6 @@
 
 A ideia do projeto é desenvolver um site de vendas de carros.
 
-(Esse foi meu primeiro projeto através do curso técnico. Ele foi totalmente reformado, ou seja, apliquei novos conhecimentos de tags em HTML e novos conhecimentos de estilização através do CSS)
-
 ---
 
 ---
